@@ -1,0 +1,6 @@
+Hello world my pseudo is Tatsuya, and I am learning python!
+This is another test block of text for this project!
+This is fun to type some text like a machine. I want a super score!
+I am tired, will I make another mistake in typing some text. Oops, I just did it...
+Okay, this is just another test to make sure this app is working okay!
+The quick brown fox jumped over the rest of the sentence that I forget.
