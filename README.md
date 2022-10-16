@@ -15,8 +15,6 @@ python main.py
 Before executing the file `main.py`, check if you have the curses library installed.
 If not, type this in your command prompt
 ```shell
+# if you are on windows
 pip install windows-curses
 ```
-
-
-
